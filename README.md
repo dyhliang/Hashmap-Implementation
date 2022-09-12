@@ -5,3 +5,6 @@ This is a Python implementation of a HashMap with Open Addressing along with Qua
 
 ### Additional information
 The helper_classes.py file provides several classes such as the DynamicArray, SLNode, LinkedList, LinkedListIterator, HashEntry, and two hash functions to provide functionality for certain methods, as generating output for testing purposes in the Python console.
+
+### Instructions
+The files can be run in any code editor that supports Python.
